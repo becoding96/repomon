@@ -1,7 +1,7 @@
 # 🐱‍👤 RepoMon 🐱‍👤
 
 <div style="margin-left: 5px;" align="center">
-SSAFY 8기 2학기 자율프로젝트
+SSAFY 8기 2학기 자율프로젝트 우수상
 <div style="font-weight: bold; font-size: 1.2em;">2023.04.10 ~ 2023.05.19</div>
 </div>
 
